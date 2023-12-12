@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/Y34Kj75/Rectangle-2-2.png",
+        "title": "Basic C Programming",
+        "info": " C's structured and modular approach, coupled with direct memory manipulation, allows developers to create powerful. ",
+        "price": 15000,
+        "credit": 1
+      },
+
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/cDtCCpt/Rectangle-2-3.png",
+        "title": "Introduction Algorithms",
+        "info": "They are fundamental to computing and underpin every aspect of modern technology, from search engines to data analysis. ",
+        "price": 25000,
+        "credit": 2
+      },
+
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/xLcr36H/Rectangle-2-4.png",
+        "title": "Introduction  C++ for DSA",
+        "info": "C++ is a versatile programming language widely used for Data Structures and Algorithms (DSA) due to its powerful standard library .",
+        "price": 10000,
+        "credit": 10
+      },
+
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/hM7xGvV/Rectangle-2.png",
+        "title": "Introduction OOP Python",
+        "info": "Object-Oriented Programming (OOP) in Python is a paradigm that allows  to organize software systems, ensuring  code and code reusable .",
+        "price": 19000,
+        "credit": 5
+      },
+
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/rG1nG3S/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "info": "Basic data structures, such as arrays and linked lists, serve as the building blocks for more complex data manipulation in computer .",
+        "price": 35000,
+        "credit": 5
+      },
+
+     
+
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/8bhH9ks/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "info": "Software engineering is a systematic approach to designing, developing, testing, and maintaining software systems, ensuring .",
+        "price": 23000,
+        "credit": 2
+      },
+
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/mt9LKWB/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "info": "Amazon Web Services (AWS) is a leading cloud computing platform offering a wide range of scalable and cost-effective cloud services. ",
+        "price": 35000,
+        "credit": 5
+      },
+
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/D8P7RCf/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "info": "MySQL is a popular open-source relational database management system (RDBMS) known for its speed, reliability, and scalability.",
+        "price": 19000,
+        "credit": 5
+      },
+
+      {
+        "id": 9,
+        "image": "https://i.ibb.co/TrTp19b/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "info": "Problem-solving is a critical skill that involves analyzing challenges, devising effective strategies, and implementing solutions.",
+        "price": 23000,
+        "credit": 2
+      }
+]
+
